@@ -1,7 +1,7 @@
 # 🔢 Simple Web Calculator Project
 
 <p align="center">
-  <img src="https://i.imgur.com/your-image-url.png" alt="Calculator Preview" width="300"/>
+  <img width="475" height="650" alt="Screenshot 2025-07-12 at 08 09 44" src="https://github.com/user-attachments/assets/1a7ffa88-a950-4a6a-8bd0-9eb9675882de" />
 </p>
 
 <p align="center">
