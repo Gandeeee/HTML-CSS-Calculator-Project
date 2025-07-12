@@ -1,4 +1,4 @@
-# 🔢 Simple & Stylish Web Calculator
+# 🔢 Simple Web Calculator Project
 
 <p align="center">
   <img src="https://i.imgur.com/your-image-url.png" alt="Calculator Preview" width="300"/>
